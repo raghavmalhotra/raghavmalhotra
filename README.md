@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Raghav Malhotra  
 
-Welcome to my LinkedIn space! I’m a passionate **JavaScript developer** with a knack for building dynamic and user-friendly web applications. I love **React** for its simplicity and flexibility, and you’ll often find me crafting sleek, responsive interfaces using **Tailwind CSS**.
+Welcome to my Github  I’m a passionate **JavaScript developer** with a knack for building dynamic and user-friendly web applications. I love **React** for its simplicity and flexibility, and you’ll often find me crafting sleek, responsive interfaces using **Tailwind CSS**.
 
 ## 💻 Tech Stack  
 - **JavaScript / ES6+**  
