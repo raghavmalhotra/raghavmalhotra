@@ -20,4 +20,4 @@ Currently, I’m diving into the world of **large language models (LLMs)** and *
 - Stay updated with the latest in **React** and **LLMs**  
 
 ## 🔗 Let’s Connect!  
-I'm always excited to network, collaborate on projects, or just chat about tech! Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/thikraghav). Let’s build something awesome together!  
+I'm always excited to network, collaborate on projects, or just chat about tech! Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/thinkraghav). Let’s build something awesome together!  
