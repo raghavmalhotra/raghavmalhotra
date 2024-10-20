@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Raghav Malhotra  
 
-Welcome to my Github  I’m a passionate **JavaScript developer** with a knack for building dynamic and user-friendly web applications. I love **React** for its simplicity and flexibility, and you’ll often find me crafting sleek, responsive interfaces using **Tailwind CSS**.
+Welcome to my GitHub profile! I’m a passionate **JavaScript developer** with a knack for building dynamic and user-friendly web applications. I love **React** for its simplicity and flexibility, and you’ll often find me crafting sleek, responsive interfaces using **Tailwind CSS**.
 
 ## 💻 Tech Stack  
 - **JavaScript / ES6+**  
@@ -20,4 +20,4 @@ Currently, I’m diving into the world of **large language models (LLMs)** and *
 - Stay updated with the latest in **React** and **LLMs**  
 
 ## 🔗 Let’s Connect!  
-I'm always excited to network, collaborate on projects, or just chat about tech! Feel free to reach out on [LinkedIn]([https://www.linkedin.com/in/raghav-malhotra](https://www.linkedin.com/in/thinkraghav/)). Let’s build something awesome together!  
+I'm always excited to network, collaborate on projects, or just chat about tech! Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/thikraghav). Let’s build something awesome together!  
